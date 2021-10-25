@@ -11,7 +11,7 @@ def dupes_remover(l1):
         print("The Origin : ",o,end="")
         print(o)
     else:
-        print("[!Buggu] --> Innu Kannu pudikala  , therinja enaku sollu kudu .")
+        print("[!Buggu] --> 4+ Numbers ku Innu Kannu pudikala  , therinja enaku solli kudu .")
 
 n1 = list(input("Enter N1 : "))
 dupes_remover(n1)

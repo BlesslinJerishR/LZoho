@@ -7,4 +7,5 @@
     [x] Palindrome - LSD
     [.] Bouncing Balls
     [x] Inversion
-    []  Dupes 
+    [x] 0Dupes 
+    [] Swapper
