@@ -5,4 +5,6 @@
 
 /Snakeggs
     [x] Palindrome - LSD
-    []
+    [.] Bouncing Balls
+    [x] Inversion
+    []  Dupes 
