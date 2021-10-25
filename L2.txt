@@ -1,0 +1,8 @@
+/legend
+    .static
+    .dynamic
+    .library
+
+/Snakeggs
+    [x] Palindrome - LSD
+    []
