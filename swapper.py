@@ -1,10 +1,10 @@
-def swappers2x(p1,p2,leng):
-    """Swapper2x
+def swapper(p1,p2,leng):
+    """Swapper
         To Swap two letters and check whether the words are
-        suffering from palindrome Syndome .
+        suffering from palindrome Syndrome .
     Args:
-        p1 (str)    : [ Palindrome1 ]
-        p1 (str)    : [ Palindrome2 ]
+        p1 (str)    : [ Swapper 1 ]
+        p1 (str)    : [ Swapper 2 ]
         len (int)   : [ Length of the word ]
     """
     A = []
@@ -28,7 +28,7 @@ def swappers2x(p1,p2,leng):
 A = input("Enter the 1st word : ")
 B = input("Enter the 2nd word : ")
 
-if(swappers2x(A, B, len(A))):
+if(swapper(A, B, len(A))):
     print("The words are swappable")
 else:
     print("The words are not Swappable")
